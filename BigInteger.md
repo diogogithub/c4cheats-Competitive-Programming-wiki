@@ -1,4 +1,6 @@
-Oh no!  We haven't finished this yet!  
+A `BigInteger` is a `Java` specific class that utilizes `String`s to create an Integer with no theoretical limits besides the amount of memory on the computer. The `BigInteger` is immutable meaning that the `.add()` method does not add to the object from which it is called, see below.
 
-A BigInteger is exactly what it says it is (a very Big Integer). It's size is equal to the amount of memory your computer can hold (so it is a number that is a string pretty much).
+    BigInteger b = new BigInteger("5");
 
+    b.add(BigInteger.ONE); // value of b is still 5
+    b = b.add(BigInteger.ONE); // value of b is now 6
