@@ -15,11 +15,12 @@ Beginner Topics
 * Geometry
 * int vs long vs BigInteger
 
-Novice Topics
+Intermediate Topics
 
 * Brute Force
 * BFS
 * DFS
+* Regular Expressions
 
 Advanced Topics
 
