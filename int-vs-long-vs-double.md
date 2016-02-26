@@ -1,3 +1,2 @@
-Oh no! We haven't finished this yet!
-
-Would you like to help?
+**int**
+The `int` is the most basic data type in java and probably the one everyone is familiar with. The `int` is short for `Integer` (a class which can wrap the primitive `int`). The `int` data type has a range from -2147483647 to 2147483647. `int`s are all whole real numbers. You cannot have a decimal if you have an `int`. If you were to divide two numbers that are not evenly divisible say 10 and 3, the result you would get would be 3.
