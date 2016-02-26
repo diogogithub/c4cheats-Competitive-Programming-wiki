@@ -12,7 +12,8 @@ Competition Lists
 Beginner Topics
 
 * Math
-* Summations
+* Geometry
+* int vs long vs BigInteger
 
 Novice Topics
 
