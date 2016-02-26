@@ -1,10 +1,10 @@
-**String basics**
+**String basics:**
 A `String` is a collection of characters or `char`s. Since `String` starts with a capital 'S' we can tell it is a class meaning it will have methods. In Java `String`s can be declared one of two ways.
 
     String one = "Hello World";
     String two = new String("Hello World"); // these lines do the same thing
 
-**String Concatenation**
+**String Concatenation:**
 `String`s like primitive data types such as `int` can be added together. Though unlike something like an `int` it is not possible to subtract `String`s. `String` concatenation refers to the process of adding two `String`s using the '+' symbol. An example is below.
 
     String a = "This is" + " an example"; // the String a would read "This is an example"
