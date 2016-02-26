@@ -5,9 +5,9 @@ Competition Lists
 * FHSPS
 * FIU
 * Stetson
-* UCF
-* UCF - Online
-* UF
+* [UCF](https://github.com/c4cheats/Competitive-Programming/wiki/UCF-Contests)
+* [UCF - Online](https://github.com/c4cheats/Competitive-Programming/wiki/UCF-Online---Contests)
+* [UF](https://github.com/c4cheats/Competitive-Programming/wiki/UF-Competitions)
 
 Beginner Topics
 
@@ -18,10 +18,10 @@ Beginner Topics
 
 Intermediate Topics
 
-* Brute Force
-* BFS
-* DFS
-* Regular Expressions
+* [Brute Force](https://github.com/c4cheats/Competitive-Programming/wiki/Brute-Force)
+* [BFS](https://github.com/c4cheats/Competitive-Programming/wiki/BFS)
+* [DFS](https://github.com/c4cheats/Competitive-Programming/wiki/DFS)
+* [Regular Expressions](https://github.com/c4cheats/Competitive-Programming/wiki/Regular-Expressions)
 
 Advanced Topics
 
