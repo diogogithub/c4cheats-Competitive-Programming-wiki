@@ -11,6 +11,7 @@ Competition Lists
 
 Beginner Topics
 
+* Contests 101
 * Math
 * Geometry
 * int vs long vs BigInteger
