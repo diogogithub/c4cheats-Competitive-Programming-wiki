@@ -28,5 +28,5 @@ Intermediate Topics
 
 Advanced Topics
 
-* Comparable
+* [Comparable](https://github.com/c4cheats/Competitive-Programming/wiki/Comparable)
 * Flyods
