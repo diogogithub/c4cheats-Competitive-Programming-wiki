@@ -1,10 +1,10 @@
 Competition Lists
 
 * [CodeForces](https://github.com/c4cheats/Competitive-Programming/wiki/CodeForces-Competitions)
-* CodeChef
-* FHSPS
-* FIU
-* Stetson
+* [CodeChef](https://github.com/c4cheats/Competitive-Programming/wiki/CodeChef-Competitions)
+* [FHSPS](https://github.com/c4cheats/Competitive-Programming/wiki/FHSPS-Competitions)
+* [FIU](https://github.com/c4cheats/Competitive-Programming/wiki/FIU-Competitions)
+* [Stetson](https://github.com/c4cheats/Competitive-Programming/wiki/Stetson-Competitions)
 * [UCF](https://github.com/c4cheats/Competitive-Programming/wiki/UCF-Contests)
 * [UCF - Online](https://github.com/c4cheats/Competitive-Programming/wiki/UCF-Online---Contests)
 * [UF](https://github.com/c4cheats/Competitive-Programming/wiki/UF-Competitions)
@@ -29,4 +29,4 @@ Intermediate Topics
 Advanced Topics
 
 * [Comparable](https://github.com/c4cheats/Competitive-Programming/wiki/Comparable)
-* Flyods
+* [Floyd-Warshall](https://github.com/c4cheats/Competitive-Programming/wiki/Floyd-Warshall)
