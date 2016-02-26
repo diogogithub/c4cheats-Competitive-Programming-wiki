@@ -14,7 +14,7 @@ When you create a custom class you will use the `implements` to include `Compara
 	
         public Car(int s, int c) {
 
-        speed = s; coolness = c;
+            speed = s; coolness = c;
 
         }
 
