@@ -11,10 +11,10 @@ Competition Lists
 
 Beginner Topics
 
-* Contests 101
-* Math
-* Geometry
-* int vs long vs BigInteger
+* [Contests 101](https://github.com/c4cheats/Competitive-Programming/wiki/Contests-101)
+* [Math](https://github.com/c4cheats/Competitive-Programming/wiki/Math)
+* [Geometry](https://github.com/c4cheats/Competitive-Programming/wiki/Geometry)
+* [BigInteger](https://github.com/c4cheats/Competitive-Programming/wiki/BigInteger)
 
 Intermediate Topics
 
