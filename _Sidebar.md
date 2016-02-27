@@ -14,7 +14,7 @@ Beginner Topics
 * [Contests 101](https://github.com/c4cheats/Competitive-Programming/wiki/Contests-101)
 * [Math](https://github.com/c4cheats/Competitive-Programming/wiki/Math)
 * [Geometry](https://github.com/c4cheats/Competitive-Programming/wiki/Geometry)
-* [int vs long vs double](https://github.com/c4cheats/Competitive-Programming/wiki/int_long_double)
+* [int vs long vs double](https://github.com/c4cheats/Competitive-Programming/wiki/int-vs-long-vs-double)
 * [BigInteger](https://github.com/c4cheats/Competitive-Programming/wiki/BigInteger)
 * [Strings](https://github.com/c4cheats/Competitive-Programming/wiki/Strings)
 
