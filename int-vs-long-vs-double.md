@@ -8,8 +8,8 @@ _Important Variables/Methods_
 * `Integer.MAX_VALUE` value is 2147483647
 * `Integer.MIN_VALUE` value is -2147483647
 * `Integer.SIZE` values is the number of bits required to store the number.
-* 'Integer.bitCount(int n)` will return an int that will be the number of 1s in the binary representation. 
-* 'Integer.highestOneBit(int n)` will return the position of the highest 1 in the binary representation.
+* `Integer.bitCount(int n)` will return an int that will be the number of 1s in the binary representation. 
+* `Integer.highestOneBit(int n)` will return the position of the highest 1 in the binary representation.
 
 
 **long**
