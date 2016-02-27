@@ -29,5 +29,7 @@ Intermediate Topics
 
 Advanced Topics
 
+* [Backtracking](http://github.com/c4cheats/Competitive-Programming/wiki/Backtracking)
+* [Floodfill](http://github.com/c4cheats/Competitive-Programming/wiki/Floodfill)
 * [Comparable](https://github.com/c4cheats/Competitive-Programming/wiki/Comparable)
 * [Floyd-Warshall](https://github.com/c4cheats/Competitive-Programming/wiki/Floyd-Warshall)
