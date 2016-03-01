@@ -20,6 +20,7 @@ Beginner Topics
 
 Intermediate Topics
 
+* [Methods](https://github.com/c4cheats/Competitive-Programming/wiki/Methods)
 * [Brute Force](https://github.com/c4cheats/Competitive-Programming/wiki/Brute-Force)
 * [BFS](https://github.com/c4cheats/Competitive-Programming/wiki/BFS)
 * [DFS](https://github.com/c4cheats/Competitive-Programming/wiki/DFS)
