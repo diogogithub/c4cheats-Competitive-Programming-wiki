@@ -1,0 +1,2 @@
+**Floodfill Overview**
+The Floodfill algorithm all you to fill in a 2d (or 1d, 3d etc.) array recursively. The Floodfill works by having two identically sized arrays, one being the data type given in the problem (usually a `char`) and a `boolean` array used to mark spots you have visited before to prevent an infinite loop. You do not necessarily need the `boolean` array if you change the values and check their value before performing recursion on that position.
