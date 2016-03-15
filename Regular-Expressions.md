@@ -1,4 +1,4 @@
-Regular Expression (Regex) is a powerful tool used to find and manipulate patterns in a string of text. It is used in many programming languages, including (naturally) Java.
+`Regular Expression` (Regex) is a powerful tool used to find and manipulate patterns in a string of text. It is used in many programming languages, including (naturally) Java.
 
 Here are some examples where Regex can be useful:
 * To determine if a string is a number: `[0-9]+`
@@ -8,7 +8,7 @@ Here are some examples where Regex can be useful:
 
 
 Some methods in the Java String class that use Regex:
-* String.matches(String regex)
-* String.split(String regex)
-* String.replaceAll(String regex, String replacement)
-* String.replaceFirst(String regex, String replacement)
+* `String.matches(String regex)`
+* `String.split(String regex)`
+* `String.replaceAll(String regex, String replacement)`
+* `String.replaceFirst(String regex, String replacement)`
