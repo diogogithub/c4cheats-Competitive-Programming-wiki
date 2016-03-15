@@ -34,3 +34,5 @@ Advanced Topics
 * [Floodfill](http://github.com/c4cheats/Competitive-Programming/wiki/Floodfill)
 * [Comparable](https://github.com/c4cheats/Competitive-Programming/wiki/Comparable)
 * [Floyd-Warshall](https://github.com/c4cheats/Competitive-Programming/wiki/Floyd-Warshall)
+* [Prim](https://github.com/c4cheats/Competitive-Programming/wiki/Prim)
+* [Kruskal](https://github.com/c4cheats/Competitive-Programming/wiki/Kruskal)
