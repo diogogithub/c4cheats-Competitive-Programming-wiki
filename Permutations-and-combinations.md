@@ -29,6 +29,7 @@ To generate all the permutations of an ArrayList, you can use this code:
 len is the length of the permutations and printList is a custom method that prints the values in the list, from index 0 to index len (exclusive). To modify this method for arrays or Strings, you need to manually swap the values at i and k instead of using Collections.swap().
 
 To generate all the combinations of an array or ArrayList, you can use this:
+	
 	for (int subset = 0; subset < (1 << n); subset++) {
 		for (int k = 0; k < n; k++) {
 			int result = (1 << k) & subset;
