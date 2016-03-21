@@ -14,6 +14,7 @@ However, it has only one combination:
 Do you see the difference? With permutations, the order matters.
 
 To generate all the permutations of an ArrayList, you can use this code:
+	
 	void permute(ArrayList<Integer> list, int k, int len){
 		for (int i = k; i < list.size(); i++) {
 			Collections.swap(list, i, k);
