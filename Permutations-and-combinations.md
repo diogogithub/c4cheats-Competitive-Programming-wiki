@@ -34,7 +34,7 @@ To generate all the combinations of an array or ArrayList, you can use this:
 		for (int k = 0; k < n; k++) {
 			int result = (1 << k) & subset;
 			if (result != 0) {
-The item at index k is in the current subset/combination.
+				// The item at index k is in the current subset/combination.
 			}
 		}
 	}
