@@ -30,6 +30,7 @@ Intermediate Topics
 
 Advanced Topics
 
+* [Permutations and combinations](https://github.com/c4cheats/Competitive-Programming/wiki/Permutations-and-combinations)
 * [Backtracking](http://github.com/c4cheats/Competitive-Programming/wiki/Backtracking)
 * [Floodfill](http://github.com/c4cheats/Competitive-Programming/wiki/Floodfill)
 * [Comparable](https://github.com/c4cheats/Competitive-Programming/wiki/Comparable)
