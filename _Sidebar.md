@@ -33,7 +33,7 @@ Advanced Topics
 * [Backtracking](http://github.com/c4cheats/Competitive-Programming/wiki/Backtracking)
 * [Floodfill](http://github.com/c4cheats/Competitive-Programming/wiki/Floodfill)
 * [Comparable](https://github.com/c4cheats/Competitive-Programming/wiki/Comparable)
-* [Dijkstra's algorithm (pathfinding in a weighted graph)](https://github.com/c4cheats/Competitive-Programming/wiki/Dijkstra's-algorithm)
+* [Dijkstra's algorithm](https://github.com/c4cheats/Competitive-Programming/wiki/Dijkstra's-algorithm)
 * [Floyd-Warshall](https://github.com/c4cheats/Competitive-Programming/wiki/Floyd-Warshall)
 * [Prim's algorithm (MST)](https://github.com/c4cheats/Competitive-Programming/wiki/Prim's-algorithm-(MST))
 * [Kruskal's algorithm (MST)](https://github.com/c4cheats/Competitive-Programming/wiki/Kruskal's-algorithm-(MST))
