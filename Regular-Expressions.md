@@ -49,4 +49,27 @@ A very useful feature of regex is the ability to check whether a character is pa
 
 Let's say we wanted to use regex to check whether a 2-digit number is divisible by 10. We can use `"[0123456789]0"`. There are 2 parts to this regex: the numbers inside of the bracket, and 0. Since the bracket part can match any single numeric digit, the whole regex string can match `"10"`, `"20"`, ..., `"90"`, but also `"00"`. To avoid this, just change it to `"[123456789]0"`.
 
-You may be thinking that this is a lot of typing for something so simple. Why type `"[abcdefghijklmnopqrstuvwxyz]"` to match a letter when you can just use `Character.isLowerCase(ch)` or `'a' <= ch && ch <= 'z"`? The way around this is to use a range: `"[a-z]"` to match a lower-case letter, `"[A-Z]"` to match an upper-case letter, or `"[0-9]"` to match a digit. If you wanted to check part of the alphabet, you could use `"[m-z]"`. You can also combine them: `"[a-df-z1-9]"` will match any lower-case letter other than 'e' or any non-zero digit. It's important to note that while it is legal to change around the order of letters/numbers, you CANNOT change the order of the range, i.e. use `"[z-a]"` or `"[9-0]"`. This will result in an Exception.
+You may be thinking that this is a lot of typing for something so simple. Why type `"[abcdefghijklmnopqrstuvwxyz]"` to match a letter when you can just use `Character.isLowerCase(ch)` or `'a' <= ch && ch <= 'z"`? The way around this is to use a range: `"[a-z]"` to match a lower-case letter, `"[A-Z]"` to match an upper-case letter, or `"[0-9]"` to match a digit. If you wanted to check part of the alphabet, you could use `"[m-z]"`. You can also combine them: `"[a-df-z1-9]"` will match any lower-case letter other than 'e' or any non-zero digit. It's important to note that while it is legal to change around the order of letters/numbers, you CANNOT change the order of the range, i.e. use `"[z-a]"` or `"[9-0]"`. This will result in an Exception being thrown.
+
+To match anything except what's inside the bracket, use '^' before the other characters inside the brackets. The regex `"[^a-d]"` will match ANY character except for "a", "b", "c", or "d" (including digits and other characters).
+
+An alternate to ranges is predefined character classes. Instead of using `"[0-9]"`, you could use `"\\d"`. Here is a list of predefined character classes:
+
+| Using brackets | Substitution | What it matches |
+| ---- | ---- | ---- |
+| `"[0-9]"` | `"\\d"` | Any digit |
+| `"[^0-9]"` | `"\\D"` | Anything but a digit |
+| `"[A-Za-z0-9_]"` | `"\\w"` | Any letter, digit, or underscore |
+| `"[^A-Za-z0-9_]"` | `"\\W"` | Anything other than `\\w` |
+| `"[ \\n\\t\\f\\r\\x0B]"` | `"\\s"` | Any whitespace character |
+| `"[^\\s]"` | `"\\S"` | Any non-whitespace character |
+
+#####Examples
+| Regex | What it matches |
+| ---- | ---- |
+| `"[go]"` | The char 'g' or 'o' |
+| `"g[eo]t"` | "get" or "got" |
+| `"1[3-7]"` | Any integer between 13 and 17 |
+| `"\\d\\s[a-z]"` | A digit, followed by a whitespace character and a lower-case letter |
+| `"[+]"` | A single plus sign |
+| `"+"` | Throws an exception |
