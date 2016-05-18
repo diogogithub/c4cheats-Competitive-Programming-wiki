@@ -17,6 +17,7 @@ Beginner Topics
 * [int vs long vs double](https://github.com/c4cheats/Competitive-Programming/wiki/int-vs-long-vs-double)
 * [BigInteger](https://github.com/c4cheats/Competitive-Programming/wiki/BigInteger)
 * [Strings](https://github.com/c4cheats/Competitive-Programming/wiki/Strings)
+* [Input/Output](https://github.com/c4cheats/Competitive-Programming/wiki/Input-Output)
 
 Intermediate Topics
 
@@ -27,6 +28,7 @@ Intermediate Topics
 * [More Strings](https://github.com/c4cheats/Competitive-Programming/wiki/More-Strings)
 * [Regular Expressions](https://github.com/c4cheats/Competitive-Programming/wiki/Regular-Expressions)
 * [Collections](https://github.com/c4cheats/Competitive-Programming/wiki/Collections)
+* [Bitwise Operators](https://github.com/c4cheats/Competitive-Programming/wiki/Bitwise-Operators)
 
 Advanced Topics
 
