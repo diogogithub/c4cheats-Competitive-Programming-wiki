@@ -41,4 +41,14 @@ The faster and more efficient way to split a string is to use the StringTokenize
     }
 
 This code would succesfully add every single word in the sentence into the ArrayList in the correct order, and is useful for problems that require very efficient I/O.
+
+Similar to the Scanner, in order to receive integer/long/double values we must parse them using the type's corresponding class methods. For example:
+
+    String s = "3.25 dollars";
+    String[] input = s.split(" ");
+    Double money = Double.parseDouble(input[0]);
+    Double tax = money*0.5;
+
+Here the double "tax" would be equal to 3.25*0.5, which is 1.625. We would not be able to use this math operation if we did not parse the double from the input string.
+
 ##Output##
