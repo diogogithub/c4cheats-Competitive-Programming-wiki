@@ -24,7 +24,7 @@ Other useful methods include:
     long n = scan.nextLong();
 
 **BufferedReader Class:**
-The BufferedReader is not as convenient as the Scanner class, but it has the advantage of being faster and using less memory. If the problem has a strict time limit, or only contains Strings, using a BufferedReader over a Scanner is strongly recommended. BufferedReaders are typically initialized like so:
+The BufferedReader is not as convenient as the Scanner class, but it has the advantage of being faster and using less memory. If the problem has a strict time limit, or only contains Strings, using a BufferedReader over a Scanner is strongly recommended (Do note that if you are getting Time Limit Exceeded, a BufferedReader will probably *NOT* fix the problem entirely most of the time). BufferedReaders are typically initialized like so:
 
     BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 
