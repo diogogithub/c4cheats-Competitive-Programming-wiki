@@ -17,7 +17,7 @@ Beginner Topics
 * [int vs long vs double](https://github.com/c4cheats/Competitive-Programming/wiki/int-vs-long-vs-double)
 * [BigInteger](https://github.com/c4cheats/Competitive-Programming/wiki/BigInteger)
 * [Strings](https://github.com/c4cheats/Competitive-Programming/wiki/Strings)
-* [Input/Output](https://github.com/c4cheats/Competitive-Programming/wiki/Input-Output)
+* [Input/Output](https://github.com/c4cheats/Competitive-Programming/wiki/Input-and-Output)
 
 Intermediate Topics
 
