@@ -52,3 +52,9 @@ Similar to the Scanner, in order to receive integer/long/double values we must p
 Here the double "tax" would be equal to 3.25*0.5, which is 1.625. We would not be able to use this math operation if we did not parse the double from the input string.
 
 ##Output##
+**System.out:**
+The basic way to print output is to use System.out functions. These include the following:
+
+    System.out.print(); //Prints the item in the parenthesis, without making a new line.
+    System.out.println(); //Prints the item in the parenthesis on a new line.
+    System.out.printf(); //Prints an item under a defined format.
