@@ -12,7 +12,7 @@ A depth first search (DFS) algorithm is used to traverse a graph. The best way t
 
 Specifics on this algorithm's implementation vary from problem to problem, but it is useful to use in solutions that deal with traversing mazes, various paths, graphs, etc.
 
-A typical alogirthm would look like this:
+A typical algorithm would look like this:
 
     static int[] X = {1, 0, -1, 0};
     static int[] Y = {0, 1, 0, -1};
