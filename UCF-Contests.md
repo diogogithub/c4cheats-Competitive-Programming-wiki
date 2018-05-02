@@ -48,11 +48,11 @@ _Trophy positions are top 5 starting 2017_
 | 2017 | Team #3 | |
 | 2017 | Team #4 | |
 | 2017 | Team #5 | |
-| 2018 | Team #1 | |
-| 2018 | Team #2 | |
-| 2018 | Team #3 | |
-| 2018 | Team #4 | |
-| 2018 | Team #5 | |
-| 2018 | Pickup Team #1 | |
+| 2018 | Team #1 | 9th |
+| 2018 | Team #2 | 17th |
+| 2018 | Team #3 | 63rd |
+| 2018 | Team #4 | 48th |
+| 2018 | Team #5 | 29th |
+| 2018 | Pickup Team #1 | 76th |
 
 
