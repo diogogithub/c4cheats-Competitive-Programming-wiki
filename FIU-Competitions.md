@@ -16,7 +16,7 @@
 | 2013 | n/a | Purple Wolves | 5th |
 | 2013 | n/a | Silver Wolves | 8th |
 | 2014 | n/a | Purple Wolves | 4th |
-| 2014 | n/a | Purple Wolves | 8th |
+| 2014 | n/a | Silver Wolves | 8th |
 | 2015 | n/a | Purple Wolves | 3rd |
 | 2015 | n/a | Silver Wolves | 5th |
 | 2016 | n/a | Purple Wolves | 3rd |
