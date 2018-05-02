@@ -44,10 +44,10 @@ _Trophy positions are top 5 starting 2017_
 | 2016 | Team #4 | 14th |
 | 2016 | Team #5 | 31st |
 | 2017 | Team #1 | 5th |
-| 2017 | Team #2 | |
-| 2017 | Team #3 | |
-| 2017 | Team #4 | |
-| 2017 | Team #5 | |
+| 2017 | Team #2 | 9th |
+| 2017 | Team #3 | 36th |
+| 2017 | Team #4 | 72nd |
+| 2017 | Team #5 | 82nd |
 | 2018 | Team #1 | 9th |
 | 2018 | Team #2 | 17th |
 | 2018 | Team #3 | 63rd |
