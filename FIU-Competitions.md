@@ -1,4 +1,11 @@
-## Contest Standings ## 
+## Notable Contests ##
+
+* 2015 - 3rd Place
+* 2016 - 3rd Place
+* 2017 - 1st Place
+* 2018 - 3rd Place Division 1, 1st Place Division 2 
+
+## Full Contest Standings ## 
 
 | Year | Division | Team Name |  Placement |
 | ---- | --- | --- | --- |
