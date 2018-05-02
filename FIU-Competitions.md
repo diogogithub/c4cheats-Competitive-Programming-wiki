@@ -5,7 +5,7 @@
 | 2011 | n/a | Powerful Purple | 6th |
 | 2012 | n/a | Linquistic Oper Res | 7th |
 | 2012 | n/a | Team #2 | 9th |
-| 2012 | n/a | Data Accumulating Tech | 7th |
+| 2012 | n/a | Data Accumulating Tech | 13th |
 | 2013 | n/a | Purple Wolves | 5th |
 | 2013 | n/a | Silver Wolves | 8th |
 | 2014 | n/a | Purple Wolves | 4th |
